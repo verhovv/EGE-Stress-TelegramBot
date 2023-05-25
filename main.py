@@ -2,7 +2,7 @@ import asyncio
 from aiogram import Bot, Dispatcher, types
 import stress
 
-bot = Bot(token="6235485557:AAEVOA45ldBLt2ivtqscHIeLY47YU4VOvTQ")
+bot = Bot(token="token")
 dp = Dispatcher()
 
 
